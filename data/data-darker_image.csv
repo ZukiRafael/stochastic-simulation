@@ -1,0 +1,42 @@
+time,action,customer_id,note
+0,open,na,shop opens
+12,arrival,1,
+14,arrival,2,
+17,arrival,3,
+19,finish,1,"collate, staple"
+21,finish,2,
+22,finish,3,
+38,arrival,4,
+39,arrival,5,
+41,finish,4,
+43,arrival,6,
+45,arrival,7,
+52,arrival,8,
+57,finish,5,"special paper"
+58,arrival,9,
+60,finish,6,
+61,finish,7,
+68,finish,8,
+71,finish,9,"collate, covers"
+73,arrival,10,
+74,arrival,11,
+76,arrival,12,
+79,arrival,13,
+84,finish,10,"two-sided, staple"
+86,finish,11,
+88,arrival,14,
+96,finish,12,
+96,arrival,15,
+98,finish,13,
+99,finish,14,
+102,finish,15,"collate, stapple"
+105,arrival,16,
+107,finish,16,
+108,arrival,17,
+110,finish,17,
+113,arrival,18,
+118,arrival,19,
+120,arrival,20,
+121,finish,18,"special paper"
+127,finish,19,"two-sided, staple"
+129,finish,20,"collate, staple"
